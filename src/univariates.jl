@@ -377,6 +377,7 @@ const continuous_distributions = [
     "gamma", "erlang",
     "generalizedpareto",
     "generalizedextremevalue",
+    "generalizedinvgaussian",
     "gumbel",
     "inversegamma",
     "inversegaussian",
